@@ -4,7 +4,7 @@ Support Downloader Youtube, Tiktok, Twitter, Facebook, Instagram from https://ss
 ## Install & Run
 ```bash
 $ npm install
-$ node index.js
+$ npm start
 ```
 
 ## Cara Penggunaan
