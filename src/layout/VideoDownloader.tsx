@@ -75,7 +75,7 @@ const VideoDownloader: React.FC<VideoDownloaderProps> = () => {
               
             </div>
             <div className='mb-3'>
-            <center>Coded By <a href="https://github.com/Rizky21ID" style={{ color: "black" }}>Barox</a> ft. <a href="https://chat.openai.com/chat" style={{ color: "black" }}>OpenAI ChatGTP</a>.</center>
+            <center>Coded By <a href="https://github.com/Rizky21ID" style={{ color: "black" }}>Barox</a> ft. <a href="https://chat.openai.com/chat" style={{ color: "black" }}>OpenAI ChatGPT</a>.</center>
             <center>Backend Code API Using <a href="https://github.com/Sansekai/ssyoutube-api" style={{ color: "black" }}>Sansekai/ssyoutube-api {renderPlatformIcon('github')}</a></center>
             </div>
           </div>
